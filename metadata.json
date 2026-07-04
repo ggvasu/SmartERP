@@ -1,0 +1,6 @@
+{
+  "name": "College ERP System",
+  "description": "A comprehensive college enterprise resource planning system with student and admin portals, real-time Google Sheets integration, fee management, billing notifications, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
